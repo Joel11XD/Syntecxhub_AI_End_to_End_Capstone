@@ -205,6 +205,10 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 
+**Demo File: `main.py`**
+
+The `main.py` file is the main execution file of my NEXA AI project. It connects the different modules and runs the complete workflow, including face authentication, voice or text input, and command execution. Running this file demonstrates how the personal assistant works from start to finish.
+
 ------------------------------------------------------------------------
 
 ## 🖥️ Application Interface
